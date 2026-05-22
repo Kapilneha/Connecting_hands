@@ -2,7 +2,7 @@
 
 An interactive browser-based Augmented Reality (AR) project that uses real-time hand tracking to generate neon visual effects, particles, and gesture-based interactions using your webcam.
 
-# GO live : https://kapilneha.github.io/Connecting_hands/
+## live demo : https://kapilneha.github.io/Connecting_hands/
 
 ## 🚀 Features
 
