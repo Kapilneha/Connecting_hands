@@ -19,15 +19,7 @@ An interactive browser-based Augmented Reality (AR) project that uses real-time 
 - HTML5 Canvas
 - JavaScript (Vanilla JS)
 - MediaPipe Hands API
-- Web Audio API
-
-## 🎮 How to Run
-
-1. Clone or download the project  
-2. Open the folder in VS Code  
-3. Right-click on `index.html` and open with Live Server  
-4. Allow camera access in your browser  
-5. Click **"Enter Experience"** to start  
+- Web Audio API  
 
 ## 🧠 How It Works
 
